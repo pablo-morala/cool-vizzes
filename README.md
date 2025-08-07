@@ -1,5 +1,5 @@
 # Cool Vizzes
-Hello! In this repository, I share a small script that includes various charts and visualizations made with several different Python libraries. The main goal is to explore and represent a dataset from different visual perspectives, which helps to better understand the underlying information.
+Hello! In this repository, I share a small script that includes various charts and visualizations made with several different Python libraries. The main goal is to explore and represent a dataset from different visual perspectives, which helps to better understand the underlying information. The dataset is available on Kaggle: https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales
 
 The importance of using different techniques and tools for plotting lies in the fact that each type of chart can highlight different patterns, trends, or anomalies in the data. By combining multiple visualization methods, we not only facilitate interpretation but also tell more complete and meaningful stories through the data. Ultimately, this variety in visualization enhances analytical ability and the effective communication of relevant insights.
 
